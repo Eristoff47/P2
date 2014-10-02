@@ -1,1 +1,1 @@
-#Licenced By WEBWEDESIGN fr
+#Licenced

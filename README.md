@@ -1,8 +1,16 @@
 # PROJET 1
-## Squelette pour développement PHP v1
+## Squelette pour dï¿½veloppement PHP v1
 
-### Technologie employées
+
+##Install
+En ligne de commande linux :
+
+mysql -uroot -p < src/data/project.sql
+
+
+### Technologie employï¿½es
 - PHP
 - JQery
 - Bootstrap
 - Vagrant
+
